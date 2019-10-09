@@ -1,0 +1,273 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+.veggy{
+  margin-top: 30px;
+}
+
+.safe{
+  padding-right: 570px;
+
+}
+
+
+.aufladenButton{
+  margin-top: 30px;
+}
+
+.mensaButton{
+  margin-top: 30px;
+
+}
+
+.my-4{
+  color: white;
+}
+
+.lead2{
+  color: white;
+}
+
+.lead1{
+  color: white;
+}
+.textline{
+  color: white;
+}
+
+h1 {
+
+  color: rgb(255, 0, 76);
+}
+
+
+h6{
+  color: rgb(255, 247, 247);
+}
+.table-responsive .table{
+  color: rgb(90, 86, 87);
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.table-responsive .table .thead-light th {
+  color:rgb(255, 255, 255);
+  background-color: rgb(255, 0, 76);
+  border-color:  rgb(255, 0, 76);
+}
+.w1{
+  float: left;
+  padding-left:120px;
+}
+
+.w2 .img-responsive{
+  position: absolute;
+  margin:0px;
+  padding:0px;
+}
+
+.w3{
+  float: right;
+  padding-right: 120px;
+}
+
+.float-right{
+  margin-right:-10px;
+  padding:0px;
+}
+
+
+
+.navbar .nav-link {
+  color: rgb(255, 0, 76);
+}
+
+
+.homepage .fruit{
+  margin:0;
+  padding:0;
+}
+
+.homepage .logo{
+  margin:0;
+  padding:0;
+}
+
+.homepage .foodplates{
+  margin:0;
+  padding:0;
+}
+
+.homepage .field{
+  margin:0;
+  padding:0;
+}
+
+.homepage .field2{
+  margin:0px;
+  padding:0px;
+}
+.homepage .jumbotron2{
+  
+  margin-right: 0px;
+  background-color:rgb(255, 255, 255);
+
+  
+}
+
+.homepage .jumbotron{
+  margin-bottom: 0px;
+  background-color:  rgb(255, 0, 76);
+  
+}
+
+
+
+.homepage .foodplates .img-responsive{
+  background-size: 100%;
+  width:100%;
+  height: auto;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  padding-top: 70px;
+}
+
+
+.searchBar{
+  margin-top: 120px;
+  margin-bottom: 50px;
+
+}
+
+.date-button{
+  margin-left: 10px;
+}
+.startDate{
+  /* margin-top:100px; */
+  margin-left: 10px;
+
+}
+
+.endDate{
+  margin-left: 10px;
+}
+
+.logo-image{
+  width: 80px;
+  height: 80px;
+  /* border-radius: 50%;
+  overflow: hidden;
+  margin-top: -20px;
+  margin-bottom: -20px;
+  */
+
+}
+
+.typewriter {
+  font-family: Courier, monospace;
+display: inline-block;
+}
+
+.typewriter-text {
+  color: rgb(109, 104, 105) ;
+  display: inline-block;
+  overflow: hidden;
+  letter-spacing: 2px;
+ animation: typing 5s steps(30, end), blink .75s step-end infinite;
+  white-space: nowrap;
+  font-size: 3vw;
+  font-weight: 700;
+  border-right: 4px solid  red;
+  box-sizing: border-box;
+}
+
+
+.loginform{
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.userfield{
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+.passfield{
+  margin-left: 0px;
+}
+
+.logButton{
+  margin-top: 30px;
+
+}
+
+@keyframes typing {
+  from { 
+      width: 0% 
+  }
+  to { 
+      width: 100% 
+  }
+}
+
+@keyframes blink {
+  from, to { 
+      border-color: transparent 
+  }
+  50% { 
+      border-color: red; 
+  }
+}
+
+.footer {
+  background: rgb(255, 0, 76);
+  color: white;
+}
+
+.footer .links ul {
+  list-style-type: none;
+}
+.footer .links li a {
+  color: white;
+  transition: color 0.1s;
+}
+.footer .links li a:hover {
+  text-decoration: none;
+  color:  #c6ccd4;
+}
+.footer .about-company i {
+  font-size: 25px;
+ 
+}
+.footer .about-company a {
+  color: white;
+  transition: color 0.1s;
+}
+.footer .about-company a:hover {
+  color: #c6ccd4;
+}
+.footer .location i {
+  font-size: 18px;
+}
+.footer .copyright p {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
