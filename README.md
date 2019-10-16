@@ -1,6 +1,6 @@
 # Foodplan-Application
 
-This is a food table application for a cafeteria. 
+This is a food table web-application for a cafeteria. 
 The full stack application was created with ReactJS + SpringBoot + MySQL
 
 To see my application in "action". Here is short Video:
